@@ -1,5 +1,5 @@
 import React from "react";
-import myimage from "../images/my.jpg";
+// import myimage from "../images/my.jpg";
 
 const Aboutme = () => {
   return (
@@ -45,7 +45,7 @@ const Aboutme = () => {
             <img
               className="object-cover object-center rounded-3xl"
               alt="my"
-              src={myimage}
+              src="./my.jpg"
             />
           </div>
         </div>
